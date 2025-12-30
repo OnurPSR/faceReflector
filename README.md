@@ -20,7 +20,7 @@ Pipeline :
 ![Example target](examples/target.jpg)
 
 ### Output GIF (illustrative)
-![Example output](examples/example_out.gif)
+![Example output](examples/out.gif)
 
 > The examples are generated from synthetic images in `examples/`.  
 > The real outputs depend on `sidelen`, `iters`, and how detailed the target is.
