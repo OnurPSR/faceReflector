@@ -1,10 +1,10 @@
-# Pixel Flow Mosaic (Python)
+# Pixel Flow Mosaic
 
 This project takes a **source image** and **rearranges its pixels** **without changing any RGB values** so that the final result **matches the *structure* of a target image**.
 
 This is a “pixel-identity-preserving” transform.
 
-## What the algorithm is doing (high-level)
+## Algorithm Explanation
 
 The system splits the problem into two stages:
 
