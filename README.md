@@ -1,3 +1,5 @@
+![Example output](examples/out.gif)
+
 # Pixel Flow Mosaic
 
 This project takes a **source image** and **rearranges its pixels** **without changing any RGB values** so that the final result **matches the *structure* of a target image**.
@@ -85,23 +87,6 @@ This constructs a Voronoi partition (cells closest to each seed).
 - Assemble frames in order.
 - Save as GIF.
 
----
-
-## Output examples
-
-### Source
-![Example source](examples/source.jpg)
-
-### Target
-![Example target](examples/target.jpg)
-
-### Output GIF (illustrative)
-![Example output](examples/out.gif)
-
-> The examples are generated from synthetic images in `examples/`.  
-> The real outputs depend on `sidelen`, `iters`, and how detailed the target is.
-
----
 
 ## Installation
 
